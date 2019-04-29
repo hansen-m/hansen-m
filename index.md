@@ -20,7 +20,7 @@
 | Spring 2018 | GEOG 485 - [GIS Programming and Software Development]
 | Fall 2018 | GEOG 480 - [Exploring Imagery and Elevation Data in GIS Applications]
 | Spring 2019 |	GEOG 489 - [Advanced Python Programming for GIS]
-| [In Progress] | Expected Completion 2021 - [Program Website]
+| *[In Progress]* | *Expected Completion 2021 - [Program Website]*
 
 \* See LinkedIn profile for more education, certifications, and courses
 
